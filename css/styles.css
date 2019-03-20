@@ -1,0 +1,38 @@
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 2em;
+  margin: auto;
+  color: rebeccapurple;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 1.5em;
+  text-align: center;
+  text-shadow: 1px 1px 2px pink;
+  color: purple;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 1em;
+  color: gray;
+}
+img {
+  max-width: 20%;
+}
+ul.best {
+  font-weight: bold;
+}
+
+ul.kids {
+  font-family: "Comic Sans MS";
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
